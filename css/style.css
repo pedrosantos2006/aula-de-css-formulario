@@ -1,0 +1,10 @@
+body {
+    background: lightskyblue;
+    color: black;
+}
+.titulo{
+    background-color: darkblue;
+    color: aliceblue;
+    padding: 10px;
+    font-family: Georgia;
+}
